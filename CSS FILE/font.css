@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+#fontcss{
+    width: 100;
+    height: 200;
+    font-style: italic;
+    font-variant:small-caps;
+    font-family: 'Courier New', Courier, monospace;
+}

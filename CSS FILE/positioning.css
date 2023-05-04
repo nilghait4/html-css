@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.father{
+    width: 800px;
+    height: 600px;
+    background-color:green;
+    position: relative;
+    position: fixed;
+    border-color: black;
+    
+
+}
+.Nilesh{
+    width: 400px;
+    height: 200px;
+    background-color:goldenrod;
+    left: 0%;
+    bottom:0%;
+    position: relative;    
+    position: absolute;
+    border-style:dashed;
+    background-color: azure;
+    
+}
+.Ganesh{
+    width: 400px;
+    height: 200px;
+    background-color:red;
+    right: 0%;
+    bottom:0%;
+    position: relative;
+    position: absolute;
+    border-style: dashed;
+    
+    
+}
+.Yogesh{
+    width: 400px;
+    height: 200px;
+    background-color:blueviolet;
+    position: relative;
+    position: absolute;
+    border-style: dashed;
+    
+}
+.mahesh{
+    width: 400px;
+    height: 200px;
+    background-color:rgb(216, 85, 159);
+    right:0%;
+    top:0%;
+    position: relative;
+    position: absolute;
+    border-style: groove;
+    
+}

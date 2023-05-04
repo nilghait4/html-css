@@ -1,0 +1,10 @@
+
+#textcss{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    letter-spacing: 6px;
+    word-spacing: 3px;
+    text-indent: 12px;
+    text-align: left;
+    text-transform: uppercase;
+}

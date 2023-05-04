@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+p{
+    width: 200px;
+    height: 50px;
+    border: 4px;
+    border-color: blue;
+    overflow:hidden;
+    overflow: auto;
+    overflow: scroll;
+    font-style: italic;
+    font-weight: 10px;
+
+}

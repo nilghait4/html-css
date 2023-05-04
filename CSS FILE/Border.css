@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+.bordercss{
+    height: 400px;
+    width: 800px;
+    background-color:red;
+    border-width:5px;
+    border-color: blue;
+    border-radius: 5px;
+    border-style: dotted;
+}

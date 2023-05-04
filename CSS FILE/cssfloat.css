@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heder{
+    width: 1000px;
+    height: 200px;
+    background-color: aqua;
+}
+.logo{
+      width:200px;
+      height:100;
+      background-color: chartreuse;
+      float: right;
+      
+
+}
+.menu{
+    width: 200px;
+    height: 50px;
+    background-color: crimson;
+    float:right;
+    background-position: 10px;
+}
